@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+    <ip>127.0.0.1</ip>
+    <port>4321</port>
+    <dictionary>test_keywords</dictionary>
+    <maxPlayersInRoom>3</maxPlayersInRoom>
+    <votePhaseDuration>15</votePhaseDuration>
+    <increaseScoreBy>15</increaseScoreBy>
+    <maxScore>50</maxScore>
+</settings>
